@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avalone1011
-- 👀 I’m interested in porn
+- 👀 I’m interested in anything
 - 🌱 I’m currently learning system development 
 - 💞️ I’m looking to collaborate on anything now
 - 📫 How to reach me idk
