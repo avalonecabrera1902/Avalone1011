@@ -4,7 +4,7 @@
 - 🌱 I'm currently searching to learn more and more
 - 👨‍💻 Studying at [FATEC](https://fatecmm.edu.br/).
 - 🖥️ For now I want to learn more about technologies
-- 📫 Creating a linkedIn perfil, to a more professional profile...
+- 📫 Creating a perfil on LinkedIn...
 - ✒️ To distract my mind I love to draw
 ***
 # 🚀 My technologies
