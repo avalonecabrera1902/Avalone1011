@@ -16,9 +16,9 @@
 
 # ⌨️ My tools
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
-![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-2C2D72?style=for-the-badge&logo=microsoft&logoColor=white)
 
 # 🕸️ My networks
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avalone-cabrera-765840225/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-663399?style=for-the-badge&logo=github&logoColor=white)
