@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px" /> &nbsp; *Hello*
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -9,10 +9,15 @@
 - 🖥️ For now I want to learn more about technologies
 - ✒️ To distract my mind, I love to draw
 
-# 🚀 My technologies
+# 🚀 My Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-%23007ACC?&style=for-the-badge&logo=css3&logoColor=white)
+
+#  🤓 Studying in the moment
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 # ⌨️ My tools
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
