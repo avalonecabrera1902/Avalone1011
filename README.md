@@ -18,12 +18,9 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-# ⌨️ My tools
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
-![Microsoft](https://img.shields.io/badge/Microsoft-2C2D72?style=for-the-badge&logo=microsoft&logoColor=white)
 
 # 🕸️ My networks
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avalone-cabrera-765840225/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-663399?style=for-the-badge&logo=github&logoColor=white)
